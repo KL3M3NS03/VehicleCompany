@@ -1,0 +1,16 @@
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\bin\Debug\net5.0\VehicleFactory.exe
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\bin\Debug\net5.0\VehicleFactory.deps.json
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\bin\Debug\net5.0\VehicleFactory.runtimeconfig.json
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\bin\Debug\net5.0\VehicleFactory.runtimeconfig.dev.json
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\bin\Debug\net5.0\VehicleFactory.dll
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\bin\Debug\net5.0\ref\VehicleFactory.dll
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\bin\Debug\net5.0\VehicleFactory.pdb
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net5.0\VehicleFactory.csproj.AssemblyReference.cache
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net5.0\VehicleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net5.0\VehicleFactory.AssemblyInfoInputs.cache
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net5.0\VehicleFactory.AssemblyInfo.cs
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net5.0\VehicleFactory.csproj.CoreCompileInputs.cache
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net5.0\VehicleFactory.dll
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net5.0\ref\VehicleFactory.dll
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net5.0\VehicleFactory.pdb
+C:\Users\uczen\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net5.0\VehicleFactory.genruntimeconfig.cache
