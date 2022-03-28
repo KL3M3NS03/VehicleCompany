@@ -8,28 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\uczen\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\kleme\\.nuget\\packages\\": {},
+    "D:\\SHARED_VS\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uczen\\source\\repos\\VehicleFactory\\VehicleFactory\\VehicleFactory.csproj",
+      "projectUniqueName": "C:\\Users\\kleme\\Source\\Repos\\KL3M3NS03\\VehicleCompany\\VehicleFactory\\VehicleFactory\\VehicleFactory.csproj",
       "projectName": "VehicleFactory",
-      "projectPath": "C:\\Users\\uczen\\source\\repos\\VehicleFactory\\VehicleFactory\\VehicleFactory.csproj",
-      "packagesPath": "C:\\Users\\uczen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uczen\\source\\repos\\VehicleFactory\\VehicleFactory\\obj\\",
+      "projectPath": "C:\\Users\\kleme\\Source\\Repos\\KL3M3NS03\\VehicleCompany\\VehicleFactory\\VehicleFactory\\VehicleFactory.csproj",
+      "packagesPath": "C:\\Users\\kleme\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kleme\\Source\\Repos\\KL3M3NS03\\VehicleCompany\\VehicleFactory\\VehicleFactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "D:\\SHARED_VS\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\uczen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kleme\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -63,12 +60,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

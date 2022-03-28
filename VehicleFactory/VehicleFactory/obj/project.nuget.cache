@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "huo7loPfkZGk2v6J+g2mXbmYeIQv9xmtc9sYg5VIHw8+AaNVLqUewLTeMHFr/j32a6QYJ4j/yg2fesvmkFoKqw==",
+  "dgSpecHash": "9/fTElaUqpPGdfLpStv009WLrqkaXalG+x5uC1SGJNXM9bLQmNq36AOhJh4O+Q+CS2TmQ3kdvR3CFtxDml8Lag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\uczen\\source\\repos\\VehicleFactory\\VehicleFactory\\VehicleFactory.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\kleme\\Source\\Repos\\KL3M3NS03\\VehicleCompany\\VehicleFactory\\VehicleFactory\\VehicleFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kleme\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\kleme\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kleme\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kleme\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
